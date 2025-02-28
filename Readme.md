@@ -1,0 +1,1 @@
+# Running Oracle DB inside Kubernetes on Apple silicone
